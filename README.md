@@ -2,7 +2,7 @@ Soy una desarrolladora de software con experiencia en el desarrollo **frontend**
 
 💼 Experiencia en desarrollo:
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP, C#
+- **Backend:** PHP, node.js
 - **Bases de datos:** MySQL
 - **Control de versiones:** Git y GitHub
 
@@ -39,7 +39,7 @@ Soy una desarrolladora de software con experiencia en el desarrollo **frontend**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/node.js-original.svg" height="40" alt="GitHub" />
 </p>
