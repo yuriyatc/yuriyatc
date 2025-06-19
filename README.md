@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋,soy Yuriyat</h1>
-<h3 align="center">Desarrolladora de Software Junior | Fronted & Backend 💻</h3>
+<h3 align="center">Desarrolladora de Software Junior | Interfaz & Backend 💻</h3>
 💼 Experiencia en desarrollo:
 - Desarrollo frontend con HTML, CSS, JavaScript
 - Programación con C#
