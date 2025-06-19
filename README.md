@@ -1,16 +1,12 @@
-Soy una desarrolladora de software con experiencia en el desarrollo **frontend** y **backend**, orientada a construir aplicaciones funcionales y eficientes.
+Soy desarrolladora de software con experiencia en el desarrollo **frontend** y **backend**, orientada a construir aplicaciones funcionales y eficientes.
 
 💼 Experiencia en desarrollo:
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP, NODE.js
+- **Backend:** PHP, NODE.JS
 - **Bases de datos:** MySQL
 - **Control de versiones:** Git y GitHub
 
----
-
-### 🌟 Repositorios destacados:
-
-#### 📂 Repositorios personales (`yuriyatc`)
+### 🌟 Repositorios destacados: (`yuriyatc`)
 - 🔧 [parking2024](https://github.com/yuriyatc/parking2024)
 - 📦 [turbo-stock](https://github.com/yuriyatc/turbo-stock)
 - 📁 [proyecto](https://github.com/yuriyatc/proyecto)
@@ -39,7 +35,8 @@ Soy una desarrolladora de software con experiencia en el desarrollo **frontend**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/node.js-original.svg" height="40" alt="Node.js" />
 </p>
